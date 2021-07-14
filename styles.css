@@ -28,6 +28,15 @@
 
   .navbar li{
       padding-right: 28px;
+  }
+
+  .navbar li a{
       color: whitesmoke;
-      cursor: pointer;
+      text-decoration: none;
+  }
+
+  .navbar li a:hover{
+      color: rgb(39, 177, 223);
+      text-decoration: none;
+      transition: 0.1s ease-in;
   }
