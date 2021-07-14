@@ -14,7 +14,7 @@
       font-family: sans-serif;
       background-color: slategray;
       height: 45px;
-      padding-left: 570px;
+      padding-left: 510px;
   }
 
   .navbar ul{
@@ -22,11 +22,16 @@
       flex-direction: row;
       list-style: none;
       font-size: 23px;
-      padding-top: 7px;
+      padding-top: 8px;
+      align-items: center;
   }
 
   .navbar li{
       padding-right: 28px;
       color: whitesmoke;
       cursor: pointer;
+  }
+
+  .navbar li:hover{
+      
   }
