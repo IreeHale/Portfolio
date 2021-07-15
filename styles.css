@@ -15,6 +15,7 @@
       background-color: slategray;
       height: 45px;
       padding-left: 510px;
+      text-align: center;
   }
 
   .navbar ul{
@@ -23,6 +24,7 @@
       list-style: none;
       font-size: 23px;
       padding-top: 8px;
+      text-align: center;
   }
 
   .navbar li{
@@ -42,6 +44,9 @@
 
   #Home{
       background-color: red;
-      height: 500px;
+      height: 350px;
       text-align: center;
+      font-size: 50px;
+      font-family: sans-serif;
+      padding-top: 150px;
   }
