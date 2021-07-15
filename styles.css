@@ -40,7 +40,8 @@
       transition: 0.1s ease-in;
   }
 
-  #intro{
+  #Home{
       background-color: red;
       height: 500px;
+      text-align: center;
   }
