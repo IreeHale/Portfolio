@@ -39,3 +39,8 @@
       text-decoration: none;
       transition: 0.1s ease-in;
   }
+
+  #intro{
+      background-color: red;
+      height: 500px;
+  }
