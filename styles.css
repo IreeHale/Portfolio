@@ -50,3 +50,8 @@
       font-family: sans-serif;
       padding-top: 150px;
   }
+
+  #Home .btn{
+      border: black solid 2px;
+      font-size: 14px;
+  }
