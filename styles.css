@@ -66,10 +66,17 @@
       border-radius: 5px;
   }
 
-  #contact{
+  #projects{
       height: 300px;
+  }
+
+  #contact{
+      background-color: red;
+      height: 300px;
+      padding-top: 100px;
       color:rgb(39, 177, 223);
       font-family: sans-serif;
+      font-weight: bold;
       border: black solid 3px;
       text-align: center;
   }
