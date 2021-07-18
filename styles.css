@@ -66,4 +66,10 @@
       border-radius: 5px;
   }
 
-  #contact{}
+  #contact{
+      height: 300px;
+      color:rgb(39, 177, 223);
+      font-family: sans-serif;
+      border: black solid 3px;
+      text-align: center;
+  }
