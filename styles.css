@@ -74,9 +74,19 @@
       background-color: red;
       height: 300px;
       padding-top: 100px;
-      color:rgb(39, 177, 223);
+      color: whitesmoke;
       font-family: sans-serif;
       font-weight: bold;
-      border: black solid 3px;
       text-align: center;
+  }
+
+  footer{
+      height: 30px;
+      text-align: center;
+      background-color: black;
+      color: whitesmoke;
+      font-weight: bold;
+      font-family: sans-serif;
+      padding-top: 10px;
+      font-size: 12px;
   }
