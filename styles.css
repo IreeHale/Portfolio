@@ -70,8 +70,17 @@
       height: 300px;
   }
 
+  .wrapper{
+      display: flex;
+      flex-direction: row;
+  }
+
+  .wrapper div{
+      padding-right: 30px;
+  }
+
   #contact{
-      background-color: rgb(14, 17, 168);
+      background-color: rgb(8, 10, 119);
       height: 200px;
       padding-top: 150px;
       color: whitesmoke;
