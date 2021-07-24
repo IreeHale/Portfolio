@@ -76,11 +76,12 @@
 
   #contact{
       background-color: rgb(8, 10, 119);
-      height: 200px;
-      padding-top: 150px;
+      height: 150px;
+      padding-top: 60px;
       color: whitesmoke;
       font-family: sans-serif;
       font-weight: bold;
+      font-size: 19px;
       text-align: center;
       line-height: 50px;
   }
