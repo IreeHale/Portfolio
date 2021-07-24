@@ -35,7 +35,7 @@
   }
 
   .navbar li a:hover{
-      color: rgb(39, 177, 223);
+      color: rgb(20, 24, 243);
       text-decoration: none;
       transition: 0.1s ease-in;
   }
