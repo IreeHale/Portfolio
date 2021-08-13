@@ -11,6 +11,7 @@
   }
 
   .navbar{
+      display: 
       font-family: sans-serif;
       background-color: black;
       height: 45px;
@@ -81,7 +82,7 @@
       height: 29px;
       width: 95px;
       color: whitesmoke;
-      background-color:rgb(20, 24, 243);
+      background-color:rgb(29, 93, 233);
       cursor: pointer;
       font-family: sans-serif;
       font-weight: bold;
@@ -94,17 +95,17 @@
   }
 
   .second-1{
-      margin-left: 120px;
+      margin-left: 130px;
       margin-right: 50px;
   }
 
   .third-1{
-      margin-left: 140px;
+      margin-left: 130px;
       margin-right: 50px;
   }
 
   .fourth-1{
-      margin-left: 140px;
+      margin-left: 130px;
       margin-right: 50px;
   }
 
