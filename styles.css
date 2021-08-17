@@ -75,6 +75,11 @@
       width: 300px;
   }
 
+  .p1{
+      background-image: url('./images/infinityscroll.png');
+      background-size: cover;
+  }
+
   button{
       margin-top: 20px;
       border-radius: 3px;
