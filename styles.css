@@ -140,5 +140,7 @@
   }
 
   @media (max-width: 480px){
-      
+    body{
+        background-color: blue;
+    }   
   }
