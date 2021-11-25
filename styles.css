@@ -139,4 +139,6 @@
       font-size: 12px;
   }
 
-  @media only screen 
+  @media (max-width: 480px){
+      
+  }
