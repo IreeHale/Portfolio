@@ -139,26 +139,24 @@
       font-size: 12px;
   }
 
-  @media (min-width: 320px) and (max-width: 480px){
-   .navbar{
-       padding-left: 200px;
-   }
+  @media (max-width: 480px) {
+      .navbar{
+        background-color: black;
+        padding-right: 0px;
+      }
 
-   #projects{
-       height: 1800px;
-   }
+      .navbar li{
+          position:relative;
+          right: 430px;
+          padding-right: 30px;
+      }
 
-   .wrapper{
-    display: flex;
-    flex-direction: column;
-}
+      #projects{
+          height: 1700px;
+      }
 
-    .first-1{
-        margin-left: 90px;
-    }
-
-    .first-2{
-        margin-top: -29px;
-        margin-left: 230px;
-    }
+      .wrapper{
+          display: flex;
+          flex-direction: column;
+      }
   }
