@@ -20,3 +20,17 @@ header{
     text-decoration: none;
     color: whitesmoke;
 }
+
+@media (max-width: 480px) {
+    .nav-links {
+        padding-left: 42vw;
+        height: 30vh;
+    }
+
+    .nav-links li {
+        display: flex;
+        flex-direction: columns; 
+        border-bottom: solid whitesmoke 1px;
+        margin-right: 170px;
+    }
+}
