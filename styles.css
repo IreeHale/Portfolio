@@ -21,6 +21,11 @@ header{
     color: whitesmoke;
 }
 
+video{
+    background-image: cover;
+    width: 100%;
+}
+
 @media (max-width: 480px) {
     .nav-links {
         padding-left: 42vw;
