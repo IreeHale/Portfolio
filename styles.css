@@ -40,12 +40,12 @@ header{
 video{
     background-image: cover;
     width: 100%;
+    over
     z-index: 0;
 }
 
 .color-overlay{
     position: absolute;
-    top: 100;
     background-color: slategrey;
     width: 100%;
     height: 123vh;
