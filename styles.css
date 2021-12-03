@@ -35,12 +35,24 @@ header{
     background: white;
     padding: 20px;
     margin: 15px;
-    z-index: 1;
+    z-index: 2;
 }
 
 video{
     background-image: cover;
     width: 100%;
+    z-index: 0;
+}
+
+.color-overlay{
+    position: absolute;
+    top: 100;
+    background-color: slategrey;
+    width: 100%;
+    height: 123vh;
+    overflow: hidden;
+    opacity: 0.6;
+    z-index: 1;
 }
 
 @media (max-width: 480px) {
