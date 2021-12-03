@@ -40,7 +40,7 @@ header{
 video{
     background-image: cover;
     width: 100%;
-    over
+    overflow: hidden;
     z-index: 0;
 }
 
