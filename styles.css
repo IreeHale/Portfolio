@@ -7,6 +7,7 @@ header{
     background-color: black;
     height: 8vh;
     padding-left: 34vw;
+    z-index: 2;
 }
 
 .nav-links li{
@@ -14,11 +15,28 @@ header{
     padding: 0.9rem 1.1rem;
     font-size: 1.3rem;
     font-family: sans-serif;
+    z-index: 2;
 }
 
 .nav-links li a {
     text-decoration: none;
     color: whitesmoke;
+}
+
+.nav-link li a:hover {
+    color: white;
+
+}
+
+.section h1 {
+    position: absolute;
+    text-align: center;
+    font-size: 4rem;
+    font-family: sans-serif;
+    background: white;
+    padding: 20px;
+    margin: 15px;
+    z-index: 1;
 }
 
 video{
