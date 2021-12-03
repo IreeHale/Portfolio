@@ -22,10 +22,11 @@ header{
     color: whitesmoke;
 }
 
-.nav-link li a:hover {
-    color: white;
-
+.nav-links li a:hover {
+    color: #748e54;
+    transition: ease-in 0.1s;
 }
+
 
 .section h1 {
     position: absolute;
