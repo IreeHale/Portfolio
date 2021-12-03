@@ -31,11 +31,21 @@ header{
 .section h1 {
     position: absolute;
     top: 330px;
-    left: 520px;
+    left: 550px;
     font-size: 4rem;
     font-family: sans-serif;
     color: whitesmoke;
     z-index: 2;
+}
+
+.section p {
+    position: absolute;
+    font-size: 2rem;
+    color: whitesmoke;
+    z-index: 2;
+    font-family: sans-serif;
+    top: 420px;
+    left: 450px;
 }
 
 video{
