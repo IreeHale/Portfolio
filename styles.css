@@ -66,6 +66,19 @@ video{
     z-index: 1;
 }
 
+.skills {
+    height: 80vh;
+    margin-top: -23px;
+    background-color: slategrey;
+}
+
+.skills h2 {
+    font-size: 2.5rem;
+    text-align: center;
+    margin-top: 20px;
+    font-family: sans-serif;
+}
+
 @media (max-width: 480px) {
     .nav-links {
         padding-left: 42vw;
