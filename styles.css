@@ -79,6 +79,18 @@ video{
     font-family: sans-serif;
 }
 
+.skills{
+    display: flex;
+    justify content: center;
+}
+
+.card{
+    background: whitesmoke;
+    width: 220px;
+    height: 400px;
+    margin: 30px 10px 0px 20px;
+    border-radius: 10px;
+}
 @media (max-width: 480px) {
     .nav-links {
         padding-left: 42vw;
