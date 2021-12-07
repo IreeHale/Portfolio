@@ -1,15 +1,15 @@
-header{
+header {
     display: flex;
 }
 
-.nav-links{
+.nav-links {
     list-style: none;
     background-color: black;
     height: 8vh;
     padding-left: 34vw;
 }
 
-.nav-links li{
+.nav-links li {
     display: inline-block;
     padding: 0.9rem 1.1rem;
     font-size: 1.3rem;
@@ -48,14 +48,14 @@ header{
     left: 450px;
 }
 
-video{
+video {
     background-image: cover;
     width: 100%;
     overflow: hidden;
     z-index: 0;
 }
 
-.color-overlay{
+.color-overlay {
     position: absolute;
     background-color: slategrey;
     width: 100%;
@@ -80,19 +80,32 @@ video{
     margin-top: 50px;
 }
 
-.card, .name{
+.card, .name {
     font-size: 2rem;
     margin: 35px;
     text-align: center;
     font-family: sans-serif;
 }
 
-.card{
+.card {
     background: whitesmoke;
     width: 300px;
     height: 300px;
     margin: 100px 10px -30px 20px;
     border-radius: 10px;
+}
+
+footer {
+    text-align: center;
+    color: whitesmoke;
+    background-color: black;
+    height: 7vh;
+}
+
+footer h5 {
+    font-family: sans-serif;
+    padding-top: 15px;
+    text-decoration: underline;
 }
 
 @media (max-width: 480px) {
