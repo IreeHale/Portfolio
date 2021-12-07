@@ -46,7 +46,6 @@ header{
     font-family: sans-serif;
     top: 420px;
     left: 450px;
-    border: 1px solid red;
 }
 
 video{
@@ -78,10 +77,14 @@ video{
 .skills h2 {
     text-align: center;
     font-size: 9rem;
+    margin-top: 50px;
 }
 
 .card, .name{
-    margin: 20px;
+    font-size: 2rem;
+    margin: 35px;
+    text-align: center;
+    font-family: sans-serif;
 }
 
 .card{
