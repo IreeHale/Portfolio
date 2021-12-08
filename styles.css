@@ -66,7 +66,7 @@ video {
 }
 
 .skills {
-    height: 75vh;
+    height: 70vh;
     margin-top: -23px;
     background-color: slategrey;
     display: flex;
@@ -91,8 +91,8 @@ video {
     background: whitesmoke;
     width: 300px;
     height: 300px;
-    margin: 100px 10px -30px 20px;
-    border-radius: 10px;
+    margin: 75px 10px -30px 20px;
+    border-radius: 15px;
 }
 
 footer {
