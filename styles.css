@@ -71,7 +71,7 @@ video {
     background-color: slategrey;
     display: flex;
     justify-content: center;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
 }
 
 .skills h2 {
@@ -93,6 +93,17 @@ video {
     height: 300px;
     margin: 75px 10px -30px 20px;
     border-radius: 15px;
+}
+
+.projects {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 70vh;
+    margin-top: -23px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
 }
 
 footer {
