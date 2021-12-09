@@ -93,6 +93,7 @@ video {
     height: 300px;
     margin: 75px 10px -30px 20px;
     border-radius: 15px;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 0, .2);
 }
 
 .projects {
@@ -112,6 +113,7 @@ video {
     border: 2px black solid;
     margin: 75px 10px -30px 20px;
     border-radius: 15px;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 0, .2);
 }
 
 footer {
