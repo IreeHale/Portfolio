@@ -102,9 +102,6 @@ video {
     flex-wrap: wrap;
     height: 70vh;
     margin-top: -23px;
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
 }
 
 .project{
@@ -114,6 +111,16 @@ video {
     margin: 75px 10px -30px 20px;
     border-radius: 15px;
     box-shadow: 12px 12px 2px 1px rgba(0, 0, 0, .2);
+}
+
+.contact{
+    height: 80vh;
+    background-color: slategrey;
+}
+
+form{
+    height: 100px;
+    border: 1px black solid;
 }
 
 footer {
