@@ -114,9 +114,21 @@ video {
 }
 
 #container {
-    height: 80vh;
+    height: 110vh;
     background-color: slategrey;
 }
+
+form{
+    background-color: white;
+    width: 40%;
+    height: 50%;
+}
+
+form h4{
+    text-align: center;
+}
+
+
 
 footer {
     text-align: center;
