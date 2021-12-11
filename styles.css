@@ -113,21 +113,18 @@ video {
     box-shadow: 12px 12px 2px 1px rgba(0, 0, 0, .2);
 }
 
-#container {
+.container {
     height: 110vh;
     background-color: slategrey;
 }
 
-form{
+.Contact {
     background-color: white;
     width: 40%;
     height: 50%;
+    margin-left: 50px;
+    border-radius: 3%;
 }
-
-form h4{
-    text-align: center;
-}
-
 
 
 footer {
