@@ -116,7 +116,7 @@ video {
 .container {
     display: flex;
     justify-content: center;
-    padding-top: 150px;
+    padding-top: 90px;
     height: 100vh;
     background-color: slategrey;
 }
@@ -126,7 +126,7 @@ video {
     width: 40vw;
     height: 85vh;
     border-radius: 2%;
-    padding-top: 25px;
+    padding-top: 35px;
     font-family: sans-serif;
     box-shadow: 12px 12px 2px 1px rgba(0, 0, 0, .2);
 }
