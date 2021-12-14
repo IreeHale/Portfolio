@@ -169,8 +169,12 @@ video {
 #send{
     margin-left: 220px;
     margin-top: 15px;
-    padding: 5px;
+    padding: 7px;
     width: 85px;
+    border-radius: 4px;
+    border: none;
+    background-color: #748e54;
+    font-size: 1rem;
 }
 
 footer {
