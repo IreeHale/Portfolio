@@ -199,21 +199,53 @@ footer h5 {
     font-weight: bold;
 }
 
-@media (max-width: 480px) {
+@media (min-width: 460px) {
     .nav-links {
-        padding-left: 42vw;
-        height: 30vh;
+        display: flex;
+        padding-left: 2px;
+        padding-top: -2px;
+        height: 6vh;
     }
 
     .nav-links li {
-        display: flex;
-        flex-direction: columns; 
-        border-bottom: solid whitesmoke 1px;
-        margin-right: 170px;
+        flex-direction: row;
+        margin-right: 0px;
     }
 
     .nav-links li a:active {
         color: #748e54;
     }
+
+    .section h1 {
+        position: absolute;
+        top: 140px;
+        left: 200px;
+        font-size: 1rem;
+        font-family: sans-serif;
+        color: black;
+        z-index: 2;
+    }
     
+    .section p {
+        position: absolute;
+        font-size: 1rem;
+        color: black;
+        z-index: 2;
+        font-family: sans-serif;
+        top: 220px;
+        left: 150px;
+    }
+    
+    video {
+        background-image: cover;
+        width: 100%;
+        height: 50%;
+        overflow: hidden;
+        z-index: 0;
+    }
+
+    .color-overlay{
+        width: 100%;
+        height: 45%;
+    }
 }
