@@ -177,6 +177,12 @@ video {
     background-color: #748e54;
     font-size: 1.2rem;
     font-weight: bold;
+    cursor: pointer;
+}
+
+#send:hover {
+    background-color: #43572a;
+    transition: ease-in 0.3s;
 }
 
 footer {
