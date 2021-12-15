@@ -199,7 +199,7 @@ footer h5 {
     font-weight: bold;
 }
 
-@media (min-width: 460px) {
+@media (max-width: 460px) {
     .nav-links {
         display: flex;
         padding-left: 2px;
@@ -220,7 +220,7 @@ footer h5 {
         position: absolute;
         top: 140px;
         left: 200px;
-        font-size: 1rem;
+        font-size: 3rem;
         font-family: sans-serif;
         color: black;
         z-index: 2;
@@ -228,12 +228,12 @@ footer h5 {
     
     .section p {
         position: absolute;
-        font-size: 1rem;
+        font-size: 1.2rem;
         color: black;
         z-index: 2;
         font-family: sans-serif;
         top: 220px;
-        left: 150px;
+        left: 160px;
     }
     
     video {
