@@ -38,7 +38,7 @@ header {
     z-index: 2;
 }
 
-.section p {
+ .section p {
     position: absolute;
     font-size: 2rem;
     color: whitesmoke;
