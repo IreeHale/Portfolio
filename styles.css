@@ -113,6 +113,35 @@ video {
     box-shadow: 12px 12px 2px 1px rgba(0, 0, 0, .2);
 }
 
+.project:nth-child(1) {
+    background: url('./images/infinity-scroll.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.project:nth-child(2) {
+    background: url('./images/Weather-app.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.project:nth-child(3) {
+    background: url('./images/tic-tac.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.project:nth-child(4) {
+    background: url('./images/To-Do\ List.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.repo {
+    position: relative;
+}
+
 .container {
     display: flex;
     justify-content: center;
