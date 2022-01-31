@@ -140,6 +140,17 @@ video {
 
 .repo {
     position: relative;
+    top: 330px;
+    left: 70px;
+    padding: 8px;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+.repo:nth-child(1) {
+    left: 30px;
 }
 
 .container {
