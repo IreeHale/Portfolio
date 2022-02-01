@@ -100,7 +100,7 @@ video {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    height: 70vh;
+    height: 75vh;
     margin-top: -23px;
 }
 
@@ -144,6 +144,7 @@ video {
     left: 70px;
     padding: 8px;
     border-radius: 5px;
+    border: none;
     font-size: 15px;
     font-weight: bold;
     font-family: sans-serif;
@@ -151,6 +152,14 @@ video {
 
 .repo:nth-child(1) {
     left: 30px;
+    background-color: green;
+    color: white;
+
+}
+
+.repo:nth-child(2) {
+    background-color: red;
+    color: white;
 }
 
 .container {
