@@ -2,7 +2,7 @@
     
     .nav-links{
         height: 0px;
-        margin-left: 490px;
+        margin-left: 489px;
     }
 
     .nav-links li {
@@ -29,7 +29,7 @@
         position: absolute;
         height: 90%;
         z-index: 2;
-        top: 50px;
+        top: 30px;
         left: 400px;
     }
     
@@ -50,21 +50,32 @@
         color: rgb(93,172,189);
         z-index: 2;
         font-family: sans-serif;
-        top: 480px;
+        top: 450px;
         left: 450px;
-    }
-
-    #github{
-        position: absolute;
-        left: 50px;
-        top: 30px;
-        
     }
 
     #linkedin{
         position: absolute;
-        left: 20px;
-        top: 30px;
+        left: 598px;
+        top: 500px;
+        color: rgb(93,172,189);
+        z-index: 2;
+    }
+
+    #linkedin a {
+        cursor: pointer;
+    }
+
+    #github{
+        position: absolute;
+        left: 680px;
+        top: 500px;
+        color: rgb(93,172,189);
+        z-index: 2;
+    }
+
+    #github a {
+        cursor: pointer;
     }
     
     video {
