@@ -2,5 +2,8 @@
     "cSpell.words": [
         "Iree",
         "Iree's"
+    ],
+    "marquee.widgets.npm-stats.packageNames": [
+        "portfolio"
     ]
 }
