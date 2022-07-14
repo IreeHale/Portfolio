@@ -16,6 +16,7 @@
     }
     
     .nav-links li a {
+        animation: fadeIn ease-in 2s;
         text-decoration: none;
         color: rgb(93,172,189);;
     }
@@ -26,6 +27,7 @@
     }
     
     .logo{
+        animation: fadeIn ease-in 2s;
         position: absolute;
         height: 90%;
         z-index: 2;
@@ -34,6 +36,7 @@
     }
     
     .section h1 {
+        animation: fadeIn ease-in 2s;
         position: absolute;
         top: 330px;
         left: 550px;
@@ -45,6 +48,7 @@
     }
     
      .section p {
+        animation: fadeIn ease-in 2s;
         position: absolute;
         font-size: 2rem;
         color: rgb(93,172,189);
@@ -55,6 +59,7 @@
     }
 
     #linkedin{
+        animation: fadeIn ease-in 2s;
         position: absolute;
         left: 598px;
         top: 500px;
@@ -67,6 +72,7 @@
     }
 
     #github{
+        animation: fadeIn ease-in 2s;
         position: absolute;
         left: 680px;
         top: 500px;
@@ -198,5 +204,6 @@
         font-family: sans-serif;
         padding-top: 15px;
         font-weight: bold;
+        text-decoration: underline;
     }
 }
